@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+
+        <!-- Rojo-->
+        <color name="rojo01">#F44336</color>
+        <color name="rojo02">#FFEBEE</color>
+        <color name="rojo03">#FFCDD2</color>
+        <color name="rojo04">#EF9A9A</color>
+        <color name="rojo05">#E57373</color>
+        <color name="rojo06">#EF5350</color>
+        <color name="rojo07">#EF5350</color>
+        <color name="rojo08">#F44336</color>
+        <color name="rojo09">#E53935</color>
+        <color name="rojo10">#D32F2F</color>
+        <color name="rojo11">#C62828</color>
+        <color name="rojo12">#B71C1C</color>
+        <color name="rojo13">#FF8A80</color>
+        <color name="rojo14">#FF5252</color>
+        <color name="rojo15">#FF1744</color>
+        <color name="rojo16">#D50000</color>
+
+        <!-- Rosa-->
+        <color name="rosa01">#E91E63</color>
+        <color name="rosa02">#FCE4EC</color>
+        <color name="rosa03">#F8BBD0</color>
+        <color name="rosa04">#F48FB1</color>
+        <color name="rosa05">#F06292</color>
+        <color name="rosa06">#EC407A</color>
+        <color name="rosa07">#E91E63</color>
+        <color name="rosa08">#D81B60</color>
+        <color name="rosa09">#C2185B</color>
+        <color name="rosa10">#AD1457</color>
+        <color name="rosa11">#880E4F</color>
+        <color name="rosa12">#FF80AB</color>
+        <color name="rosa13">#FF4081</color>
+        <color name="rosa14">#F50057</color>
+        <color name="rosa15">#C51162</color>
+
+
+        <!--Purpura -->
+        <color name="morado01">#9C27B0</color>
+        <color name="morado02">#F3E5F5</color>
+        <color name="morado03">#E1BEE7</color>
+        <color name="morado04">#CE93D8</color>
+        <color name="morado05">#BA68C8</color>
+        <color name="morado06">#AB47BC</color>
+        <color name="morado07">#9C27B0</color>
+        <color name="morado08">#8E24AA</color>
+        <color name="morado09">#7B1FA2</color>
+        <color name="morado10">#6A1B9A</color>
+        <color name="morado11">#4A148C</color>
+        <color name="morado12">#EA80FC</color>
+        <color name="morado13">#E040FB</color>
+        <color name="morado14">#D500F9</color>
+        <color name="morado15">#AA00FF</color>
+
+
+        <!-- Deep Purple-->
+
+        <color name="mora01">#673AB7</color>
+        <color name="mora02">#EDE7F6</color>
+        <color name="mora03">#D1C4E9</color>
+        <color name="mora04">#B39DDB</color>
+        <color name="mora05">#9575CD</color>
+        <color name="mora06">#7E57C2</color>
+        <color name="mora07">#673AB7</color>
+        <color name="mora08">#5E35B1</color>
+        <color name="mora09">#512DA8</color>
+        <color name="mora10">#4527A0</color>
+        <color name="mora11">#311B92</color>
+        <color name="mora12">#B388FF</color>
+        <color name="mora13">#7C4DFF</color>
+        <color name="mora14">#651FFF</color>
+        <color name="mora15">#6200EA</color>
+
+        <!--Indigo-->
+
+        <color name="indigo01">#3F51B5</color>
+        <color name="indigo02">#E8EAF6</color>
+        <color name="indigo03">#C5CAE9</color>
+        <color name="indigo04">#9FA8DA</color>
+        <color name="indigo05">#7986CB</color>
+        <color name="indigo06">#5C6BC0</color>
+        <color name="indigo07">#3F51B5</color>
+        <color name="indigo08">#3949AB</color>
+        <color name="indigo09">#303F9F</color>
+        <color name="indigo10">#283593</color>
+        <color name="indigo11">#1A237E</color>
+        <color name="indigo12">#8C9EFF</color>
+        <color name="indigo13">#536DFE</color>
+        <color name="indigo14">#3D5AFE</color>
+        <color name="indigo15">#304FFE</color>
+
+
+        <!-- Azul-->
+
+        <color name="azul01">#2196F3</color>
+        <color name="azul02">#E3F2FD</color>
+        <color name="azul03">#BBDEFB</color>
+        <color name="azul04">#90CAF9</color>
+        <color name="azul05">#64B5F6</color>
+        <color name="azul06">#42A5F5</color>
+        <color name="azul07">#2196F3</color>
+        <color name="azul08">#1E88E5</color>
+        <color name="azul09">#1976D2</color>
+        <color name="azul10">#1565C0</color>
+        <color name="azul11">#0D47A1</color>
+        <color name="azul12">#82B1FF</color>
+        <color name="azul13">#448AFF</color>
+        <color name="azul14">#2979FF</color>
+        <color name="azul15">#2962FF</color>
+
+
+        <!-- Azul suave Light Blue -->
+
+        <color name="azul_bajo01">#03A9F4</color>
+        <color name="azul_bajo02">#E1F5FE</color>
+        <color name="azul_bajo03">#B3E5FC</color>
+        <color name="azul_bajo04">#81D4FA</color>
+        <color name="azul_bajo05">#4FC3F7</color>
+        <color name="azul_bajo06">#29B6F6</color>
+        <color name="azul_bajo07">#03A9F4</color>
+        <color name="azul_bajo08">#039BE5</color>
+        <color name="azul_bajo09">#0288D1</color>
+        <color name="azul_bajo10">#0277BD</color>
+        <color name="azul_bajo11">#01579B</color>
+        <color name="azul_bajo12">#80D8FF</color>
+        <color name="azul_bajo13">#40C4FF</color>
+        <color name="azul_bajo14">#00B0FF</color>
+        <color name="azul_bajo15">#0091EA</color>
+
+
+
+        <!-- Cyan-->
+
+        <color name="cyan01">#00BCD4</color>
+        <color name="cyan02">#E0F7FA</color>
+        <color name="cyan03">#B2EBF2</color>
+        <color name="cyan04">#80DEEA</color>
+        <color name="cyan05">#4DD0E1</color>
+        <color name="cyan06">#26C6DA</color>
+        <color name="cyan07">#00BCD4</color>
+        <color name="cyan08">#00ACC1</color>
+        <color name="cyan09">#0097A7</color>
+        <color name="cyan10">#00838F</color>
+        <color name="cyan11">#006064</color>
+        <color name="cyan12">#84FFFF</color>
+        <color name="cyan13">#18FFFF</color>
+        <color name="cyan14">#00E5FF</color>
+        <color name="cyan15">#00B8D4</color>
+
+
+        <!-- Teal-->
+
+        <color name="teal01">#009688</color>
+        <color name="teal02">#E0F2F1</color>
+        <color name="teal03">#B2DFDB</color>
+        <color name="teal04">#80CBC4</color>
+        <color name="teal05">#4DB6AC</color>
+        <color name="teal06">#26A69A</color>
+        <color name="teal07">#009688</color>
+        <color name="teal08">#00897B</color>
+        <color name="teal09">#00796B</color>
+        <color name="teal10">#00695C</color>
+        <color name="teal11">#004D40</color>
+        <color name="teal12">#A7FFEB</color>
+        <color name="teal13">#64FFDA</color>
+        <color name="teal14">#1DE9B6</color>
+        <color name="teal15">#1DE9B6</color>
+
+        <!--Green-->
+
+        <color name="verde01">#4CAF50</color>
+        <color name="verde02">#E8F5E9</color>
+        <color name="verde03">#C8E6C9</color>
+        <color name="verde04">#A5D6A7</color>
+        <color name="verde05">#81C784</color>
+        <color name="verde06">#66BB6A</color>
+        <color name="verde07">#4CAF50</color>
+        <color name="verdel08">#43A047</color>
+        <color name="verde09">#388E3C</color>
+        <color name="verde10">#2E7D32</color>
+        <color name="verde11">#1B5E20</color>
+        <color name="verde12">#B9F6CA</color>
+        <color name="verde13">#69F0AE</color>
+        <color name="verde14">#00E676</color>
+        <color name="verde15">#00C853</color>
+
+
+        <!-- Light Green-->
+
+        <color name="verde_suave01">#8BC34A</color>
+        <color name="verde_suave02">#F1F8E9</color>
+        <color name="verde_suave03">#DCEDC8</color>
+        <color name="verde_suave04">#C5E1A5</color>
+        <color name="verde_suave05">#AED581</color>
+        <color name="verde_suave06">#9CCC65</color>
+        <color name="verde_suave07">#8BC34A</color>
+        <color name="verde_suavel08">#7CB342</color>
+        <color name="verde_suave09">#689F38</color>
+        <color name="verde_suave10">#558B2F</color>
+        <color name="verde_suave11">#33691E</color>
+        <color name="verde_suave12">#CCFF90</color>
+        <color name="verde_suave13">#B2FF59</color>
+        <color name="verde_suave14">#76FF03</color>
+        <color name="verde_suave15">#64DD17</color>
+
+        <!-- Lime-->
+
+
+        <color name="lime01">#CDDC39</color>
+        <color name="lime02">#F9FBE7</color>
+        <color name="lime03">#F0F4C3</color>
+        <color name="lime04">#E6EE9C</color>
+        <color name="lime05">#DCE775</color>
+        <color name="lime06">#D4E157</color>
+        <color name="lime07">#CDDC39</color>
+        <color name="limel08">#C0CA33</color>
+        <color name="lime09">#AFB42B</color>
+        <color name="lime10">#9E9D24</color>
+        <color name="lime11">#827717</color>
+        <color name="lime12">#F4FF81</color>
+        <color name="lime13">#EEFF41</color>
+        <color name="lime14">#C6FF00</color>
+        <color name="lime15">#AEEA00</color>
+
+
+        <!-- Amarillo-->
+
+
+        <color name="amarillo01">#FFEB3B</color>
+        <color name="amarillo02">#FFFDE7</color>
+        <color name="amarillo03">#FFF9C4</color>
+        <color name="amarillo04">#FFF59D</color>
+        <color name="amarillo05">#FFF176</color>
+        <color name="amarillo06">#FFEE58</color>
+        <color name="amarillo07">#FFEB3B</color>
+        <color name="amarillol08">#FDD835</color>
+        <color name="amarillo09">#FBC02D</color>
+        <color name="amarillo10">#F9A825</color>
+        <color name="amarillo11">#F57F17</color>
+        <color name="amarillo12">#FFFF8D</color>
+        <color name="amarillo13">#FFFF00</color>
+        <color name="amarillo14">#FFEA00</color>
+        <color name="amarillo15">#FFD600</color>
+
+
+
+        <!-- Amber-->
+
+
+        <color name="amber01">#FFC107</color>
+        <color name="amber02">#FFF8E1</color>
+        <color name="amber03">#FFECB3</color>
+        <color name="amber04">#FFE082</color>
+        <color name="amber05">#FFD54F</color>
+        <color name="amber06">#FFCA28</color>
+        <color name="amber07">#FFC107</color>
+        <color name="amber08">#FFB300</color>
+        <color name="amber09">#FFA000</color>
+        <color name="amber10">#FF8F00</color>
+        <color name="amber11">#FF6F00</color>
+        <color name="amber12">#FFE57F</color>
+        <color name="amber13">#FFD740</color>
+        <color name="amber14">#FFC400</color>
+        <color name="amber15">#FFAB00</color>
+
+        <!-- Naranja -->
+
+
+        <color name="naranja01">#FF9800</color>
+        <color name="naranja02">#FFF3E0</color>
+        <color name="naranja03">#FFE0B2</color>
+        <color name="naranja04">#FFCC80</color>
+        <color name="naranja05">#FFB74D</color>
+        <color name="naranja06">#FFA726</color>
+        <color name="naranja07">#FF9800</color>
+        <color name="naranja08">#FB8C00</color>
+        <color name="naranja09">#F57C00</color>
+        <color name="naranja10">#EF6C00</color>
+        <color name="naranja11">#E65100</color>
+        <color name="naranja12">#FFD180</color>
+        <color name="naranja13">#FFAB40</color>
+        <color name="naranja14">#FF9100</color>
+        <color name="naranja15">#FF6D00</color>
+
+
+        <!-- Deep Orange -->
+
+        <color name="naranja_profundo01">#FF5722</color>
+        <color name="naranja_profundo02">#FBE9E7</color>
+        <color name="naranja_profundo03">#FFCCBC</color>
+        <color name="naranja_profundo04">#FFAB91</color>
+        <color name="naranja_profundo05">#FF8A65</color>
+        <color name="naranja_profundo06">#FF7043</color>
+        <color name="naranja_profundo07">#FF5722</color>
+        <color name="naranja_profundo08">#F4511E</color>
+        <color name="naranja_profundo09">#E64A19</color>
+        <color name="naranja_profundo10">#D84315</color>
+        <color name="naranja_profundo11">#BF360C</color>
+        <color name="naranja_profundo12">#FF9E80</color>
+        <color name="naranja_profundo13">#FF6E40</color>
+        <color name="naranja_profundo14">#FF3D00</color>
+        <color name="naranja_profundo15">#DD2C00</color>
+
+
+
+        <!-- Cafe -->
+
+        <color name="cafe01">#795548</color>
+        <color name="cafe02">#EFEBE9</color>
+        <color name="cafe03">#D7CCC8</color>
+        <color name="cafe04">#BCAAA4</color>
+        <color name="cafe05">#A1887F</color>
+        <color name="cafe06">#8D6E63</color>
+        <color name="cafe07">#795548</color>
+        <color name="cafe08">#6D4C41</color>
+        <color name="cafe09">#5D4037</color>
+        <color name="cafe10">#4E342E</color>
+        <color name="cafe11">#3E2723</color>
+
+        <!-- Gris -->
+
+        <color name="gris01">#9E9E9E</color>
+        <color name="gris02">#FAFAFA</color>
+        <color name="gris03">#F5F5F5</color>
+        <color name="gris04">#EEEEEE</color>
+        <color name="gris05">#E0E0E0</color>
+        <color name="gris06">#BDBDBD</color>
+        <color name="gris07">#9E9E9E</color>
+        <color name="gris08">#757575</color>
+        <color name="gris09">#616161</color>
+        <color name="gris10">#424242</color>
+        <color name="gris11">#212121</color>
+
+        <!-- Azul Gris -->
+
+        <color name="azul_gris01">#607D8B</color>
+        <color name="azul_gris02">#ECEFF1</color>
+        <color name="azul_gris03">#CFD8DC</color>
+        <color name="azul_gris04">#B0BEC5</color>
+        <color name="azul_gris05">#90A4AE</color>
+        <color name="azul_gris06">#78909C</color>
+        <color name="azul_gris07">#607D8B</color>
+        <color name="azul_gris08">#546E7A</color>
+        <color name="azul_gris09">#455A64</color>
+        <color name="azul_gris10">#37474F</color>
+        <color name="azul_gris11">#263238</color>
+
+
+
+        <!-- Blanco y Negro -->
+
+        <color name="negro">#000000</color>
+
+
+        <color name="blanco">#FFFFFF</color>
+
+
+        <!-- UI COLOR APPLICATION -->
+
+
+        <color name="marco01">#3F51B5</color>
+        <color name="marco02">#C5CAE9</color>
+        <color name="marco03">#3F51B5</color>
+        <color name="marco04">#303F9F</color>
+        <color name="marco05">#FF4081</color>
+        <color name="marco06">#FF80AB</color>
+        <color name="marco07">#F50057</color>
+        <color name="marco08">#FFFFFF</color>
+        <color name="marco09">#000000</color>
+
+
+
+
+    </resources>

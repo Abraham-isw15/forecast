@@ -1,0 +1,13 @@
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="small">16sp</dimen>
+
+    <dimen name="large">22sp</dimen>
+
+    <dimen name="xlarge">26sp</dimen>
+
+    <dimen name="xx_xlarge">42sp</dimen>
+
+</resources>

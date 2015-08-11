@@ -1,0 +1,93 @@
+<resources>
+
+    <string name="app_name">Estado del Tiempo</string>
+
+
+    <string name="titulo">ESTADO DEL CLIMA</string>
+    <string name="ciudad">Ciudad</string>
+    <string name="dia">Dia</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_pronostico_form">PronosticoFormActivity</string>
+    <string name="estadoTiempo">Estado Tiempo Mínima</string>
+    <string name="viento">Viento</string>
+    <string name="presion">Presion</string>
+    <string name="astro">Astro</string>
+    <string name="probabilidadLluvia">Probabilidad de lluvia</string>
+    <string name="title_activity_form">FormActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_agregar_form">AgregarFormActivity</string>
+    <string name="title_activity_astro">Grey</string>
+    <string name="salidaSol">Salida sol</string>
+    <string name="puestaSol">Puesta sol</string>
+    <string name="tipoLuna">Tipo luna</string>
+    <string name="title_activity_uv">UVActivity</string>
+    <string name="UV">tituloUv</string>
+    <string name="tituloUv">UV</string>
+    <string name="lblValor">Valor</string>
+    <string name="lblRiesgo">Riesgo</string>
+    <string name="title_activity_viento">VientoActivity</string>
+    <string name="lblViento">Viento</string>
+    <string name="title_activity_temperatura">TemperaturaActivity</string>
+    <string name="temperatura">Temperatura</string>
+    <string name="title_activity_estado_tiempo">EstadoTiempoActivity</string>
+    <string name="EstadoTiempo">Estado Tiempo</string>
+    <string name="temperatra">Temperatura</string>
+    <string name="title_activity_mostrar">MostrarActivity</string>
+    <string name="title_activity_detalles_mostrar">DetallesMostrarActivity</string>
+    <string name="title_activity_contenido">ContenidoActivity</string>
+    <string name="Ciudad">Ciudad</string>
+    <string name="lblCiudad">Ciudad</string>
+    <string name="lblDia">Dia</string>
+    <string name="lblPresion">Presion</string>
+    <string name="lblTemperatura">Temperatura</string>
+    <string name="lblMinima">Minima</string>
+    <string name="lblActual">Actual</string>
+    <string name="lblMaxima">Maxima</string>
+    <string name="lblSensacion">Sensacion Termica</string>
+    <string name="lblHumedad">Humedad</string>
+    <string name="lblProbabilidad">Probabilidad de lluvia</string>
+    <string name="lblUV">UV</string>
+    <string name="valor">Valor</string>
+    <string name="lblriesgo">Riesgo</string>
+    <string name="lblMinimo">Minimo</string>
+    <string name="lblMaximo">Maximo</string>
+    <string name="lblDireccion">Direccion</string>
+    <string name="lblAstro">Astro</string>
+    <string name="lblSalidaSol">Salida del Sol</string>
+    <string name="lblPuestaSol">Puesta del sol</string>
+    <string name="lblTipo">Tipo de Luna</string>
+
+
+
+    <!-- Parte del login-->
+
+
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="title_activity_form2">FormActivity</string>
+
+    <string name="forgot_password">Forgot your password</string>
+
+    <string name="sign_in">Sign in</string>
+
+    <string name="login">Login</string>
+
+    <string name="first_name">First Name</string>
+
+    <string name="last_name">Last Name</string>
+
+    <string name="password">Password</string>
+
+    <string name="confirm_password">Confirm Password</string>
+
+    <string name="telefono">Telefono</string>
+
+    <string name="email">Email</string>
+
+    <string name="registrar">Registrar</string>
+
+
+
+
+
+</resources>

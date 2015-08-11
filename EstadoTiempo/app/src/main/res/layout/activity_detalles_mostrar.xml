@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:id="@+id/tvCiudad"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtDetallesCiudad"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="21dp"
+        android:layout_toRightOf="@+id/txtDetallesTemperatura"
+        android:text="Grados"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:id="@+id/txtDetallesTemperatura"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/tvCiudad"
+        android:layout_alignBottom="@+id/tvCiudad"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="44dp"
+        android:text="Temperatura"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:id="@+id/txtDetallesCiudad"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="49dp"
+        android:text="Ciudad"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+</RelativeLayout>
+
+
