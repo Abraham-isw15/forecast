@@ -19,7 +19,7 @@ public enum Riesgo {
         return this.valor;
     }
 
-
+//Esto es un método.
     public static Riesgo getRiesgo(int valor){
 
         Riesgo r = null;
